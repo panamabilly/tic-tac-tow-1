@@ -39,3 +39,11 @@ A browswer-based Tic Tac Toe game coded in JavaScript, HTML and CSS.
 -As a user I would want to apply a theme to the game.
 
 -As a user I would want to use a larger gameboard to play tic tac toe with.
+
+### Wireframes
+
+
+
+![Tic tac toe intitial screen](assets/Wireframe.png)
+
+![Alt-text](url)
